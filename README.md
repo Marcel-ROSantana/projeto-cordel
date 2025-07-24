@@ -2,4 +2,4 @@
 
 Projeto proposto no Curso em Vídeo
 
-<a href="https://marcel-rosantana.github.io/projeto-cordel/" target="_blank">https://marcel-rosantana.github.io/projeto-cordel/</a>
+<a href="https://marcel-rosantana.github.io/projeto-cordel/" target="_blank">Projeto Cordel</a>
